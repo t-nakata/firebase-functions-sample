@@ -123,6 +123,7 @@ Waiting for authentication...
 
 ##### 4.1. Firebase hostingの初期化
 ```
+$ cd document
 $ firebase init hosting
 ```
 
